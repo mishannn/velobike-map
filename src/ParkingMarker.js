@@ -1,6 +1,6 @@
 import { CircleMarker, Popup } from "react-leaflet"
 
-const velobikeAttribution = '<a href="https://stations.velobike.ru/parkings/">Велобайк</a>'
+const velobikeAttribution = 'данные с сайта <a href="https://stations.velobike.ru/parkings/">Велобайк</a>'
 
 function getBikeTypeLabel(bikeType) {
   switch (bikeType) {
