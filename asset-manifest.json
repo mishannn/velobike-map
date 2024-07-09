@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/velobike-map/static/css/main.2e662a65.css",
+    "main.js": "/velobike-map/static/js/main.11f80ecf.js",
+    "index.html": "/velobike-map/index.html",
+    "main.2e662a65.css.map": "/velobike-map/static/css/main.2e662a65.css.map",
+    "main.11f80ecf.js.map": "/velobike-map/static/js/main.11f80ecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e662a65.css",
+    "static/js/main.11f80ecf.js"
+  ]
+}
